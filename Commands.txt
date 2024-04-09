@@ -1,0 +1,7 @@
+git clone <Project URL (HTTPS)>               For cloning project from gitHub to our folder
+python -m venv <Name of our virtual env.>     For commanding python to create our virtual env.
+venv/Scripts/activate                         For activating venv
+pip install <ExcelSheetIO>                    For installing dependencies
+pip show <selenium>                           For viewing the package version
+<Robot> --version                             For checking framework version
+git status                                    For checking the currently modified files
